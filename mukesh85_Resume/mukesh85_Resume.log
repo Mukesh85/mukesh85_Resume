@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.24)  24 MAY 2015 22:14
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.24)  24 MAY 2015 22:18
 entering extended mode
 **mukesh85_Resume.tex
 (E:\Interns\Resume\mukesh85_Resume\mukesh85_Resume\mukesh85_Resume.tex
@@ -585,42 +585,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 97--99
  []
 
 
-Overfull \hbox (8.59479pt too wide) in paragraph at lines 104--106
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+
+ []
+
+
+Overfull \hbox (8.59479pt too wide) in paragraph at lines 103--105
 [][][][][][][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--106
+Underfull \hbox (badness 10000) in paragraph at lines 103--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--106
+Underfull \hbox (badness 10000) in paragraph at lines 103--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--106
-
- []
-
-
-Overfull \hbox (8.59479pt too wide) in paragraph at lines 110--112
-[][][][][][][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 110--112
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 110--112
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 110--112
+Underfull \hbox (badness 10000) in paragraph at lines 103--105
 
  []
 
@@ -628,82 +623,82 @@ Underfull \hbox (badness 10000) in paragraph at lines 110--112
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <E:/Interns/Resume/mukesh8
 5_Resume/mukesh85_Resume/a.jpg>]
-Overfull \hbox (8.59479pt too wide) in paragraph at lines 116--118
+Overfull \hbox (8.59479pt too wide) in paragraph at lines 113--115
 [][][][][][][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--118
+Underfull \hbox (badness 10000) in paragraph at lines 113--115
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--118
+Underfull \hbox (badness 10000) in paragraph at lines 113--115
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--118
+Underfull \hbox (badness 10000) in paragraph at lines 113--115
 
  []
 
 
-Overfull \hbox (8.59479pt too wide) in paragraph at lines 122--124
+Overfull \hbox (8.59479pt too wide) in paragraph at lines 119--121
 [][][][][][][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--124
+Underfull \hbox (badness 10000) in paragraph at lines 119--121
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--124
+Underfull \hbox (badness 10000) in paragraph at lines 119--121
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--124
+Underfull \hbox (badness 10000) in paragraph at lines 119--121
 
  []
 
 
-Overfull \hbox (8.59479pt too wide) in paragraph at lines 128--130
+Overfull \hbox (8.59479pt too wide) in paragraph at lines 125--127
 [][][][][][][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 128--130
+Underfull \hbox (badness 10000) in paragraph at lines 125--127
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 128--130
+Underfull \hbox (badness 10000) in paragraph at lines 125--127
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 128--130
+Underfull \hbox (badness 10000) in paragraph at lines 125--127
 
  []
 
 
-Overfull \hbox (8.59479pt too wide) in paragraph at lines 132--134
+Overfull \hbox (8.59479pt too wide) in paragraph at lines 131--133
 [][][][][][][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 132--134
+Underfull \hbox (badness 10000) in paragraph at lines 131--133
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 132--134
+Underfull \hbox (badness 10000) in paragraph at lines 131--133
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 132--134
+Underfull \hbox (badness 10000) in paragraph at lines 131--133
 
  []
 
@@ -728,22 +723,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 135--137
  []
 
 
-Overfull \hbox (8.59479pt too wide) in paragraph at lines 139--141
+Overfull \hbox (8.59479pt too wide) in paragraph at lines 138--140
 [][][][][][][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--141
+Underfull \hbox (badness 10000) in paragraph at lines 138--140
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--141
+Underfull \hbox (badness 10000) in paragraph at lines 138--140
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--141
+Underfull \hbox (badness 10000) in paragraph at lines 138--140
+
+ []
+
+
+Overfull \hbox (8.59479pt too wide) in paragraph at lines 142--144
+[][][][][][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--144
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--144
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--144
 
  []
 
@@ -753,18 +768,18 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 2322 strings out of 493921
- 29490 string characters out of 3147279
+ 2324 strings out of 493921
+ 29508 string characters out of 3147279
  89916 words of memory out of 3000000
- 5589 multiletter control sequences out of 15000+200000
- 14041 words of font info for 31 fonts, out of 3000000 for 9000
+ 5590 multiletter control sequences out of 15000+200000
+ 15647 words of font info for 33 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  27i,8n,22p,243b,200s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
 e1/urw/palatino/uplr8a.pfb>
-Output written on mukesh85_Resume.pdf (2 pages, 105115 bytes).
+Output written on mukesh85_Resume.pdf (2 pages, 107154 bytes).
 PDF statistics:
  23 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
