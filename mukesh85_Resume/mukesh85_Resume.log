@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.24)  24 MAY 2015 21:55
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.24)  24 MAY 2015 22:06
 entering extended mode
 **mukesh85_Resume.tex
 (E:\Interns\Resume\mukesh85_Resume\mukesh85_Resume\mukesh85_Resume.tex
@@ -491,72 +491,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--59
 
  []
 
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 65.
 
-Overfull \hbox (8.59479pt too wide) in paragraph at lines 61--63
+Overfull \hbox (8.59479pt too wide) in paragraph at lines 61--75
 [][][][][][][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--63
+Underfull \hbox (badness 10000) in paragraph at lines 61--75
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--63
+Underfull \hbox (badness 10000) in paragraph at lines 61--75
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--63
+Underfull \hbox (badness 10000) in paragraph at lines 61--75
 
  []
 
 
-Overfull \hbox (8.59479pt too wide) in paragraph at lines 64--66
-[][][][][][][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--66
+Underfull \hbox (badness 10000) in paragraph at lines 61--75
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--66
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--66
-
- []
-
-
-Overfull \hbox (8.59479pt too wide) in paragraph at lines 70--72
-[][][][][][][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 70--72
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 70--72
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 70--72
-
- []
-
-LaTeX Font Info:    Try loading font information for OMS+ppl on input line 74.
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsppl.fd"
-File: omsppl.fd 
-)
-LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 74.
 
 Overfull \hbox (8.59479pt too wide) in paragraph at lines 76--78
 [][][][][][][] 
@@ -578,42 +539,48 @@ Underfull \hbox (badness 10000) in paragraph at lines 76--78
  []
 
 
-Overfull \hbox (8.59479pt too wide) in paragraph at lines 83--85
+Overfull \hbox (8.59479pt too wide) in paragraph at lines 82--84
 [][][][][][][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--85
+Underfull \hbox (badness 10000) in paragraph at lines 82--84
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--85
+Underfull \hbox (badness 10000) in paragraph at lines 82--84
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--85
+Underfull \hbox (badness 10000) in paragraph at lines 82--84
 
  []
 
+LaTeX Font Info:    Try loading font information for OMS+ppl on input line 86.
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsppl.fd"
+File: omsppl.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 86.
 
-Overfull \hbox (8.59479pt too wide) in paragraph at lines 89--91
+Overfull \hbox (8.59479pt too wide) in paragraph at lines 88--90
 [][][][][][][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--91
+Underfull \hbox (badness 10000) in paragraph at lines 88--90
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--91
+Underfull \hbox (badness 10000) in paragraph at lines 88--90
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--91
+Underfull \hbox (badness 10000) in paragraph at lines 88--90
 
  []
 
@@ -677,66 +644,106 @@ Underfull \hbox (badness 10000) in paragraph at lines 107--109
 
  []
 
+
+Overfull \hbox (8.59479pt too wide) in paragraph at lines 113--115
+[][][][][][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--115
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--115
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--115
+
+ []
+
 [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <E:/Interns/Resume/mukesh8
 5_Resume/mukesh85_Resume/a.jpg>]
-Overfull \hbox (8.59479pt too wide) in paragraph at lines 111--113
+Overfull \hbox (8.59479pt too wide) in paragraph at lines 119--121
 [][][][][][][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--113
+Underfull \hbox (badness 10000) in paragraph at lines 119--121
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--113
+Underfull \hbox (badness 10000) in paragraph at lines 119--121
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--113
+Underfull \hbox (badness 10000) in paragraph at lines 119--121
 
  []
 
 
-Overfull \hbox (8.59479pt too wide) in paragraph at lines 114--116
+Overfull \hbox (8.59479pt too wide) in paragraph at lines 123--125
 [][][][][][][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--116
+Underfull \hbox (badness 10000) in paragraph at lines 123--125
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--116
+Underfull \hbox (badness 10000) in paragraph at lines 123--125
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--116
+Underfull \hbox (badness 10000) in paragraph at lines 123--125
 
  []
 
 
-Overfull \hbox (8.59479pt too wide) in paragraph at lines 118--120
+Overfull \hbox (8.59479pt too wide) in paragraph at lines 126--128
 [][][][][][][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--120
+Underfull \hbox (badness 10000) in paragraph at lines 126--128
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--120
+Underfull \hbox (badness 10000) in paragraph at lines 126--128
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--120
+Underfull \hbox (badness 10000) in paragraph at lines 126--128
+
+ []
+
+
+Overfull \hbox (8.59479pt too wide) in paragraph at lines 130--132
+[][][][][][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--132
 
  []
 
@@ -746,18 +753,18 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 2319 strings out of 493921
- 29457 string characters out of 3147279
+ 2322 strings out of 493921
+ 29490 string characters out of 3147279
  89916 words of memory out of 3000000
- 5587 multiletter control sequences out of 15000+200000
- 12592 words of font info for 29 fonts, out of 3000000 for 9000
+ 5589 multiletter control sequences out of 15000+200000
+ 14041 words of font info for 31 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  27i,8n,22p,243b,200s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
 e1/urw/palatino/uplr8a.pfb>
-Output written on mukesh85_Resume.pdf (2 pages, 98084 bytes).
+Output written on mukesh85_Resume.pdf (2 pages, 102971 bytes).
 PDF statistics:
  23 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
